@@ -15,4 +15,6 @@ I am a current student in the [Pathways Into Quantitative Aging Research Summer 
 
 My research interest involves the use of statistics in life sciences.
 
+{% include youtube.html id="s7SKkWC5WmA" %}
+
 
